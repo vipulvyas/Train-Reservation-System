@@ -24,7 +24,8 @@ To get more help on please contact our devloper team.
 ## Further help
 
 To get more help on please contact our devloper team.
-	| Command | Description |
-	| --- | --- |
-	| git status | List all new or modified files |
-	| git diff | Show file differences that haven't been staged |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
