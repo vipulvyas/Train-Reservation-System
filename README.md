@@ -16,8 +16,8 @@ This project was in php. In which we use HTML, CSS, Bootstrap, Javascript and My
 
 To get more help on please contact our devloper team.
 	
-	Name             | Email ID
-	---------------- | ------------------------------
-	Vipul vyas       | vipulvyas0813@gmail.com
-	Keval Talaviya   | kevaltalaviya122@gmail.com
-	Shubham Vekariya | shubhamvekariya402@gmail.com
+	| Name             | Email ID
+	| ---------------- | ---------------------------- |
+	| Vipul vyas       | vipulvyas0813@gmail.com      |
+	| Keval Talaviya   | kevaltalaviya122@gmail.com   |
+	| Shubham Vekariya | shubhamvekariya402@gmail.com |
