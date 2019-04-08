@@ -21,7 +21,9 @@ To get more help on please contact our devloper team.
 	| Vipul vyas       | vipulvyas0813@gmail.com      |
 	| Keval Talaviya   | kevaltalaviya122@gmail.com   |
 	| Shubham Vekariya | shubhamvekariya402@gmail.com |
-	
+## Further help
+
+To get more help on please contact our devloper team.
 	| Command | Description |
 	| --- | --- |
 	| git status | List all new or modified files |
